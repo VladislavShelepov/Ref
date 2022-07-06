@@ -1,0 +1,40 @@
+C:\Users\Shele\source\repos\labo10\labo10\bin\Debug\labo10.exe.config
+C:\Users\Shele\source\repos\labo10\labo10\bin\Debug\labo10.exe
+C:\Users\Shele\source\repos\labo10\labo10\bin\Debug\labo10.pdb
+C:\Users\Shele\source\repos\labo10\labo10\obj\Debug\labo10.csprojAssemblyReference.cache
+C:\Users\Shele\source\repos\labo10\labo10\obj\Debug\labo10.Form1.resources
+C:\Users\Shele\source\repos\labo10\labo10\obj\Debug\labo10.Properties.Resources.resources
+C:\Users\Shele\source\repos\labo10\labo10\obj\Debug\labo10.csproj.GenerateResource.cache
+C:\Users\Shele\source\repos\labo10\labo10\obj\Debug\labo10.csproj.CoreCompileInputs.cache
+C:\Users\Shele\source\repos\labo10\labo10\obj\Debug\labo10.exe
+C:\Users\Shele\source\repos\labo10\labo10\obj\Debug\labo10.pdb
+C:\Users\Елена\Desktop\учеба\6 семестр\крипт методы  защиты информации\10_\labo10\labo10\bin\Debug\labo10.exe.config
+C:\Users\Елена\Desktop\учеба\6 семестр\крипт методы  защиты информации\10_\labo10\labo10\bin\Debug\labo10.exe
+C:\Users\Елена\Desktop\учеба\6 семестр\крипт методы  защиты информации\10_\labo10\labo10\bin\Debug\labo10.pdb
+C:\Users\Елена\Desktop\учеба\6 семестр\крипт методы  защиты информации\10_\labo10\labo10\obj\Debug\labo10.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\учеба\6 семестр\крипт методы  защиты информации\10_\labo10\labo10\obj\Debug\labo10.Form1.resources
+C:\Users\Елена\Desktop\учеба\6 семестр\крипт методы  защиты информации\10_\labo10\labo10\obj\Debug\labo10.Properties.Resources.resources
+C:\Users\Елена\Desktop\учеба\6 семестр\крипт методы  защиты информации\10_\labo10\labo10\obj\Debug\labo10.csproj.GenerateResource.cache
+C:\Users\Елена\Desktop\учеба\6 семестр\крипт методы  защиты информации\10_\labo10\labo10\obj\Debug\labo10.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\учеба\6 семестр\крипт методы  защиты информации\10_\labo10\labo10\obj\Debug\labo10.exe
+C:\Users\Елена\Desktop\учеба\6 семестр\крипт методы  защиты информации\10_\labo10\labo10\obj\Debug\labo10.pdb
+E:\Users\Ivan\Desktop\labo10\labo10\bin\Debug\labo10.exe.config
+E:\Users\Ivan\Desktop\labo10\labo10\bin\Debug\labo10.exe
+E:\Users\Ivan\Desktop\labo10\labo10\bin\Debug\labo10.pdb
+E:\Users\Ivan\Desktop\labo10\labo10\obj\Debug\labo10.csproj.AssemblyReference.cache
+E:\Users\Ivan\Desktop\labo10\labo10\obj\Debug\labo10.Form1.resources
+E:\Users\Ivan\Desktop\labo10\labo10\obj\Debug\labo10.Properties.Resources.resources
+E:\Users\Ivan\Desktop\labo10\labo10\obj\Debug\labo10.csproj.GenerateResource.cache
+E:\Users\Ivan\Desktop\labo10\labo10\obj\Debug\labo10.csproj.CoreCompileInputs.cache
+E:\Users\Ivan\Desktop\labo10\labo10\obj\Debug\labo10.exe
+E:\Users\Ivan\Desktop\labo10\labo10\obj\Debug\labo10.pdb
+C:\Users\Shele\Downloads\labo10\labo10\labo10\bin\Debug\labo10.exe.config
+C:\Users\Shele\Downloads\labo10\labo10\labo10\bin\Debug\labo10.exe
+C:\Users\Shele\Downloads\labo10\labo10\labo10\bin\Debug\labo10.pdb
+C:\Users\Shele\Downloads\labo10\labo10\labo10\obj\Debug\labo10.csprojAssemblyReference.cache
+C:\Users\Shele\Downloads\labo10\labo10\labo10\obj\Debug\labo10.Form1.resources
+C:\Users\Shele\Downloads\labo10\labo10\labo10\obj\Debug\labo10.Properties.Resources.resources
+C:\Users\Shele\Downloads\labo10\labo10\labo10\obj\Debug\labo10.csproj.GenerateResource.cache
+C:\Users\Shele\Downloads\labo10\labo10\labo10\obj\Debug\labo10.csproj.CoreCompileInputs.cache
+C:\Users\Shele\Downloads\labo10\labo10\labo10\obj\Debug\labo10.exe
+C:\Users\Shele\Downloads\labo10\labo10\labo10\obj\Debug\labo10.pdb
